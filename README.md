@@ -13,4 +13,4 @@ As AI tools are becoming better at PyTorch and there's increasingly more code on
 ___
 ## Repo structure
 
-There's just one notebook where I have my model, documentation, results, and ablations. Enjoy!
+There are two notebooks here. The MNIST_demo is where I have my model, documentation, results, and ablations. The fashion MNIST notebook includes BN and dropout to perform better on Fashion MNIST (a harder dataset). Enjoy!
